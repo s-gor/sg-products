@@ -213,7 +213,7 @@ SG-Client интегрирует собственный протокол SG-Net 
 
 **Установщик:** `002-SG-Net-261107.run` (прежняя проверенная основа `SG-F4-RECOVERY.run`, без изменения содержимого; новое имя для публикации).
 
-Файл распространяется через Google Cloud Storage. Прямая ссылка будет добавлена после размещения и проверки объекта в бакете. Исходники и бинарники в репозитории `sg-products` не хранятся.
+**Загрузка:** [002-SG-Net-261107.run](https://storage.googleapis.com/sg-net/002-SG-Net-261107.run) (Google Cloud Storage). Исходники и бинарники в репозитории `sg-products` не хранятся.
 
 ---
 
@@ -245,7 +245,7 @@ SG-Panel и SG-Gateway — **разные продукты** с собствен
 | :--- | :--- | :--- |
 | SG-Mobile | Android APK | Прямая ссылка будет добавлена после публикации проверенного APK в Google Cloud Storage |
 | SG-Client | Windows Portable ZIP | Прямая ссылка будет добавлена после публикации |
-| SG-Net 002-SG-Net-261107 · Flow4 Stable | Linux AMD64 RUN | Прямая ссылка будет добавлена после загрузки и проверки файла в Google Cloud Storage |
+| SG-Net 002-SG-Net-261107 · Flow4 Stable | Linux AMD64 RUN | [Скачать RUN](https://storage.googleapis.com/sg-net/002-SG-Net-261107.run) |
 | SG-Gateway | Linux RUN | Прямая ссылка будет добавлена после публикации |
 | SG-Panel | Серверный установщик | Прямая ссылка будет добавлена после публикации |
 
